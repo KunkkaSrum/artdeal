@@ -1,0 +1,34 @@
+{
+  "contentManagement": [
+
+  ],
+  "memberCenter": [
+    {
+      "title": "用户管理",
+      "icon": "&#xe612;",
+      "spread": false,
+      "children": [
+        {
+          "title": "账号管理",
+          "icon": "&#xe61c;",
+          "href": "/account",
+          "spread": false
+        },
+        {
+          "title": "角色管理",
+          "icon": "&#xe609;",
+          "href": "/role",
+          "spread": false
+        },
+        {
+          "title": "权限管理",
+          "icon": "&#xe609;",
+          "href": "/permission",
+          "spread": false
+        }
+      ]
+    }
+  ]
+}
+
+
